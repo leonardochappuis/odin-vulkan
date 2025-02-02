@@ -19,9 +19,11 @@ Make sure the folder structure looks like:
 ```plaintext
 triangle
 main/
+    └── main.odin
     └── shaders/
         ├── simple_frag.spv
         └── simple_vertex.spv
+    
 ```
 
 Then, you can run it with:
