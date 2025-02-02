@@ -17,8 +17,8 @@ odin build main -out:triangle
 
 Make sure the folder structure looks like:
 ```plaintext
-triangle/
-└── main/
+triangle
+main/
     └── shaders/
         ├── simple_frag.spv
         └── simple_vertex.spv
